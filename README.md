@@ -154,19 +154,10 @@ Response:
 - HTTP Security Headers (X-Content-Type-Options, X-Frame-Options, X-XSS-Protection, Strict-Transport-Security) are recommended for Nginx configuration
 - Regular dependency updates and vulnerability scanning (e.g., using `govulncheck`) are crucial for maintaining security
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+MIT, see [LICENSE](LICENSE).
 
-## Acknowledgments
+## Contributing
 
-- Thanks to all contributors who add their dad jokes
-- Built with Go, PostgreSQL, and Nginx
+PRs welcome. Please open an issue first for major changes.
